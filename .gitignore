@@ -22,8 +22,8 @@ wheels/
 
 # Virtual Environment
 venv/
-ENV/
 env/
+ENV/
 
 # IDE
 .idea/
@@ -31,7 +31,14 @@ env/
 *.swp
 *.swo
 
-# OS
+# Generated files
+images/*.png
+tests/test_results.png
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# System
 .DS_Store
 Thumbs.db
 
