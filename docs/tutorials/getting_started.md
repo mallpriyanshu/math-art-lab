@@ -116,4 +116,4 @@ plt.savefig('mandelbrot.png', dpi=300)
 4. Combine multiple curves in one plot
 5. Create animations of evolving curves
 
-Check out the [Gallery](../gallery.md) for more inspiration and the [API Reference](../api/api_reference.md) for detailed documentation of all available features. 
+Check out the [Gallery](../../gallery.md) for more inspiration and the [API Reference](../../api/api_reference.md) for detailed documentation of all available features. 

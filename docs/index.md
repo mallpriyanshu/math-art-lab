@@ -7,7 +7,7 @@ Welcome to the Math Art documentation! This library allows you to create beautif
 - [Gallery](gallery.md) - View beautiful mathematical art examples
 - [Installation](installation.md) - Get started with the library
 - [User Guide](user_guide.md) - Learn how to use the library
-- [API Reference](api_reference.md) - Detailed API documentation
+- [API Reference](api/api_reference.md) - Detailed API documentation
 - [Development Guide](development.md) - Contribute to the project
 - [Directory Structure](directory_structure.md) - Project organization
 
@@ -55,14 +55,14 @@ Math Art is a Python library that transforms mathematical equations into beautif
 
 ### Developer Documentation
 - [Development Guide](development.md) - How to contribute to the project
-- [API Reference](api_reference.md) - Detailed API documentation
+- [API Reference](api/api_reference.md) - Detailed API documentation
 - [Directory Structure](directory_structure.md) - Project organization
 - [Testing Guide](testing.md) - How to run and write tests
 
 ### Mathematical Background
-- [Parametric Equations](math/parametric.md) - Understanding parametric curves
-- [Fractals](math/fractals.md) - Mathematical theory behind fractals
-- [Color Theory](math/colors.md) - Creating aesthetic color schemes
+- [Parametric Equations](theory/parametric_equations.md) - Understanding parametric curves
+- [Fractals](theory/fractals.md) - Mathematical theory behind fractals
+- [Color Theory](theory/colors.md) - Creating aesthetic color schemes
 
 ## Features
 
@@ -102,7 +102,7 @@ We welcome contributions! Please see our:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](../LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](../../LICENSE) file for details.
 
 ## Acknowledgments
 
