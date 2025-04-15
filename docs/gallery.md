@@ -5,7 +5,7 @@ This gallery showcases various mathematical art pieces created using the Math Ar
 ## Parametric Curves
 
 ### Butterfly Curve
-![Butterfly Curve](../../images/butterfly.png)
+![Butterfly Curve](../images/butterfly.png)
 A beautiful butterfly curve created using parametric equations. The gradient colors follow the curve's path, creating a vibrant and dynamic effect. The curve is defined by:
 ```python
 x = sin(t) * (exp(cos(t)) - 2cos(4t) - sin(t/12)^5)
