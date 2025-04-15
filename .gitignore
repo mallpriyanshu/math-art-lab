@@ -31,9 +31,7 @@ ENV/
 *.swp
 *.swo
 
-# Generated files
-images/*.png
-tests/test_results.png
+
 
 # Jupyter Notebook
 .ipynb_checkpoints
